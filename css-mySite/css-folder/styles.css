@@ -7,7 +7,7 @@ body{
 
 h1{
     font-family: 'Sacramento', cursive;
-    font-size: 592.5%;
+    font-size: 5.625rem;
     margin-top: 0;
 }
 
@@ -23,51 +23,51 @@ h3{
 
 .top-container{
     background-color: #DAFFFB;
-    padding-top: 100px;
+    padding-top: 6.25rem;
     position: relative;
 }
 
 .mountain{
-    width: 300px;
+    width: 18.75rem;
 }
 
 .top-cloud{
-    margin-right: -500px;
-    margin-top: -70px;
-    width: 300px;
+    margin-right: -43.7%;
+    margin-top: -4.375rem;
+    width: 18.75rem;
 }
 
 .bottom-cloud{
-    margin-left: -300px;
+    margin-left: -18.7%;
     margin-bottom: 250px;
     margin-right: 0px;
-    width: 200px;
+    width: 18.75rem;
 }
 /* middle container */
 
 .middle-container{
-    background-color: #64CCC5;
+    background-color: #b2fffa;
 }
 
 .profile img{
     border-radius: 100%;
-    width: 300px;
-    height: 300px;
+    width: 18.75rem;
+    height: 18.75rem;
 }
 
 .skills img{
     border-radius: 100%;
-    width: 300px;
-    height: 300px;
+    width: 18.75rem;
+    height: 18.75rem;
 }
 
 .skills-rows img{
     border-radius: 100%;
-    width: 300px;
-    height: 300px;
+    width: 18.75rem;
+    height: 18.75rem;
 }
 
 /* bottom container */
 .bottom-container{
-    background-color: #176B87;
+    background-color: #b5ecfe;
 }
